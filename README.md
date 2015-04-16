@@ -1,2 +1,2 @@
 # webops-cmd
-Command line interface for webops. Based on python and requests
+Command line interface for webops. Based on python and webops-py
